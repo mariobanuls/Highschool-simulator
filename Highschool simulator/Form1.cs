@@ -612,25 +612,25 @@ namespace Highschool_simulator
                         uniButton.Visible = true;
 
                     }
-                    else if (engipoint == 14 || engipoint == 13)
+                    else if (engipoint == 13 || engipoint == 12 || engipoint == 11)
                     {
 
                         uni = "Queens";
                         uniButton.Visible = true;
                     }
-                    else if (engipoint == 12 || engipoint == 11)
+                    else if (engipoint == 10 || engipoint == 9)
                     {
 
                         uni = "Community college";
                         uniButton.Visible = true;
                     }
-                    else if (engipoint == 10 || engipoint == 9 || engipoint == 8 || engipoint == 7)
+                    else if (engipoint == 8 || engipoint == 7 || engipoint == 6)
                     {
 
                        uni = "Western";
                         uniButton.Visible = true;
                     }
-                    else if (engipoint <= 6)
+                    else if (engipoint <= 5)
                     {
                        
                        uni = "Liberal arts";
