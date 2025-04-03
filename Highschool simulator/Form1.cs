@@ -755,6 +755,6 @@ namespace Highschool_simulator
                 promptLabel.Text = $"Nog eorking";
             }
            
-        }
+        }      
     }
 }
